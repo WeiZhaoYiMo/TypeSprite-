@@ -42,7 +42,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -STA -File .\TypingPet.ps1
 pwsh -NoProfile -ExecutionPolicy Bypass -STA -File .\TypingPet.ps1 -ResetPosition
 ```
 
-或者直接下载[/a]TypingPet.exe[/a]运行即可
+或者直接下载TypingPet.exe运行即可
 
 ## 数据位置
 
