@@ -4,7 +4,7 @@
 
 ## 分享给其他人
 
-`release\TypingPet.exe` 是单文件便携版，可直接发送并双击运行；`release\TypingPet-Portable.zip` 是便于下载和传输的压缩包版本。对方不需要安装 PowerShell 7，也不需要单独复制脚本或图片。
+`TypingPet.exe` 是单文件便携版，可直接发送并双击运行；`TypingPet-Portable.zip` 是便于下载和传输的压缩包版本。对方不需要安装 PowerShell 7，也不需要单独复制脚本或图片。
 
 便携版首次启动会将程序资源释放到 `%LOCALAPPDATA%\TypingPet\app`，统计数据仍保存在 `%LOCALAPPDATA%\TypingPet\stats.json`。这是未使用商业代码签名证书的个人构建，Windows SmartScreen 可能在首次运行时要求用户确认。
 
